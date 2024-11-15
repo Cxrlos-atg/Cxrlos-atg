@@ -21,15 +21,17 @@
   </a>
 
 # 📊 GitHub Stats:
-<p align"center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Cxrlos-atg&theme=tokyonight&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxrlos-atg&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cxrlos-atg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Cxrlos_atg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
