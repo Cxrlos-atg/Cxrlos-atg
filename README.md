@@ -4,7 +4,7 @@
 # 💻 Tech I Know:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab, androidstudio,vscode,atom,eclipse,windows,linux,notion,ps" />
   </a>
 </p>
 # 📊 GitHub Stats:
