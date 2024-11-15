@@ -17,7 +17,7 @@
 # 💻 Tech I am learning in deep:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,kotlin,c,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=kotlin,swift,c,cs,cpp,aws" />
   </a>
 
 # 📊 GitHub Stats:
