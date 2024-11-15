@@ -1,3 +1,8 @@
+## 🌐 Socials:
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlostoribiogarcia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carlosToribio"/></a>
+  <a href = "mailto:Cxrlos_atg@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="@unsimpledev"  /></a>
+
 # 💫 About Me:
 🔭 I am a multiplatform application developer<br>🌱 Currently i am trying to improve my mobile developer skills learning kotlin and swift in depth<br>
 
@@ -34,8 +39,6 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Cxrlos-atg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </div>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Cxrlos_atg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cxrlos-atg&icon=0&color=12)](https://visitcount.itsvg.in)
