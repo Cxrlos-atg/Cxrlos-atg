@@ -41,11 +41,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
       </td>
     </tr>
-    <tr border="none">
-      <td colspan="2" align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Cxrlos-atg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-      </td>
-    </tr>
   </table>
 </p>
 
