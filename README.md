@@ -47,11 +47,11 @@
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Cxrlos-atg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cxrlos-atg&icon=0&color=12)](https://visitcount.itsvg.in)
-
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
