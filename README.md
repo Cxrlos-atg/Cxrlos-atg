@@ -26,21 +26,19 @@
   </a>
 
 # 📊 GitHub Stats:
-<p align="center">
-  <table align="center">
-    <tr border="none">
-      <td align="left" width="50%">
+<div align="center">
+  <table>
+    <tr>
+      <!-- Streak Stats -->
+      <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxrlos-atg&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
       </td>
-    </tr>
-    <tr borde="none">
-      <td align="right">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      <!-- Most Used Languages -->
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
-</p>
-
 ---
 
 <h2 align="center">🏆 Trophies</h2>
