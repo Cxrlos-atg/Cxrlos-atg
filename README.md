@@ -3,10 +3,10 @@
   <a href="https://www.linkedin.com/in/carlostoribiogarcia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carlosToribio"/></a>
   <a href = "mailto:Cxrlos_atg@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="@unsimpledev"  /></a>
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I am a multiplatform application developer<br>🌱 Currently i am trying to improve my mobile developer skills learning kotlin and swift in depth<br>
 
-# 💻 My Tech Stack:
+## 💻 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,androidstudio,vscode,atom,eclipse,windows,linux,notion,ps" />
@@ -19,13 +19,13 @@
   </a>
 </p>
 
-# 💻 Tools & Technologies I’m Currently Mastering:
+## 💻 Tools & Technologies I’m Currently Mastering:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,swift,c,cs,cpp,aws" />
   </a>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <table>
     <tr>
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-# 👀 Profile Visits:
+## 👀 Profile Visits:
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Cxrlos-atg&icon=0&color=12" alt="Profile Views Counter" />
 </p>
