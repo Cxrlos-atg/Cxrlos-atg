@@ -30,9 +30,6 @@
   <table align="center">
     <tr border="none">
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxrlos-atg&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
       </td>
     </tr>
