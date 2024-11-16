@@ -9,7 +9,7 @@
 ## 💻 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,androidstudio,vscode,atom,eclipse,windows,linux,notion,ps" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,androidstudio,vscode,atom,eclipse,linux,notion,ps" />
   </a>
 </p>
 
