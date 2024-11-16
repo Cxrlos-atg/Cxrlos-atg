@@ -48,8 +48,6 @@
   </a>
 </p>
 
----
-
 <h2 align="center">👀 Profile Visits</h2>
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Cxrlos-atg&icon=0&color=12" alt="Profile Views Counter" />
