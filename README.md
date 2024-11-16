@@ -29,12 +29,12 @@
 <p align="center">
   <table align="center">
     <tr border="none">
-      <td align="center" width="50%">
+      <td align="left" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxrlos-atg&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
       </td>
     </tr>
     <tr borde="none">
-      <td colspan="2" align="center">
+      <td align="right">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
       </td>
     </tr>
