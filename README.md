@@ -39,7 +39,6 @@
       </td>
     </tr>
   </table>
----
 
 <h2 align="center">🏆 Trophies</h2>
 <p align="center">
