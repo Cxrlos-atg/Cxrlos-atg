@@ -6,7 +6,7 @@
 # 💫 About Me:
 🔭 I am a multiplatform application developer<br>🌱 Currently i am trying to improve my mobile developer skills learning kotlin and swift in depth<br>
 
-# 💻 Tech I Know:
+# 💻 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,androidstudio,vscode,atom,eclipse,windows,linux,notion,ps" />
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-# 💻 Tech I am learning in deep:
+# 💻 Tools & Technologies I’m Currently Mastering:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,swift,c,cs,cpp,aws" />
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<h2 align="center">👀 Profile Visits</h2>
+# 👀 Profile Visits:
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Cxrlos-atg&icon=0&color=12" alt="Profile Views Counter" />
 </p>
