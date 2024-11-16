@@ -46,12 +46,11 @@
   </a>
 </p>
 
-
 ## 👀 Profile Visits:
 
-<p align="center">
+<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Cxrlos-atg&icon=0&color=12" alt="Profile Views Counter" />
-</p>
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
