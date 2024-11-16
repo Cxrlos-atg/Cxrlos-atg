@@ -26,31 +26,43 @@
   </a>
 
 # 📊 GitHub Stats:
-  
 <p align="center">
-
-  <table align="left">
-  <tr border="none">
-  <td width="60%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <td/>
-
-  <<td width="40%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxrlos-atg&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-  </td>
-  </tr>
-
-  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  </div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Cxrlos-atg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cxrlos-atg&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlos-atg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Cxrlos-atg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cxrlos-atg&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<h2 align="center">🏆 Trophies</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=Cxrlos-atg&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">👀 Profile Visits</h2>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Cxrlos-atg&icon=0&color=12" alt="Profile Views Counter" />
 </p>
 
 
