@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-<p align="center" color: "green">
+<p align="center" color: green>
   <a href="https://www.linkedin.com/in/carlostoribiogarcia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carlosToribio"/></a>
   <a href = "mailto:Cxrlos_atg@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="@unsimpledev"  /></a>
 
